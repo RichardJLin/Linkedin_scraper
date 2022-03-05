@@ -1,0 +1,15 @@
+.DS_Store
+chromedriver
+env/
+*.docx
+.ipynb_checkpoints
+
+archive
+archive2
+best_model*
+*.zip
+
+ds.ipynb
+*.py
+notebook_parallel.ipynb
+modules
